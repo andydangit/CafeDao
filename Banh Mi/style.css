@@ -1,0 +1,65 @@
+.jumbotron {
+    Margin: 0;
+    padding: 30px;
+    background-color: rgb(204, 193, 193);
+    color: rgb(219, 83, 83); 
+}
+
+.jumbotron h2{ 
+    color: whitesmoke; 
+    font-size: 2rem;
+}
+.jumbotron h1{ 
+    color: #EA1C2C; 
+    font-size: 3rem;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .navbar-brand {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.jumbotron img {
+    display: block;
+    max-width: 75%;
+    height: auto;;
+  }
+
+  #reserveModal .modal-header {
+    background-color: #17A2B8;
+    color: white; }
+  
+  #loginModal .modal-header {
+    background-color: rgb(63, 61, 63);
+    color: white; 
+}
+  
+    .navbar {
+        background-color: rgb(22, 22, 26); 
+    }
+
+
+
+
+.carousel-caption {
+    background-color: rgba(0,0,0,0.5);
+
+}
+
+.carousel{
+    border: 5px solid lightgrey;
+
+}
+
+.site-footer{
+    /* background-image: linear-gradient(#b7a8f8, white); */
+    padding: 20px 0px;
+    background-color: rgb(204, 193, 193);
+    
+}
+
